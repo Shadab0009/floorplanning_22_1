@@ -1,0 +1,7 @@
+libs/
+DATA/
+DBS/
+SCRIPTS/
+DOCs/
+*.lib
+*.lef
